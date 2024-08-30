@@ -1,0 +1,5 @@
+<epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
+<text lang="mul"/>
+<text font="font_a"/>
+<text>Hola Esto Es Una Prueba</text>
+</epos-print>
